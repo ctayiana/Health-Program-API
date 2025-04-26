@@ -1,0 +1,32 @@
+[
+  {
+    "full_name": "Celestine Tayiana Turjo",
+    "age": 22,
+    "gender": "Female",
+    "program_ids": [],
+    "client_id": "028833d5-d991-404f-b0fd-504c9edd731b",
+    "registered_at": "2025-04-26 15:47:39.277854"
+  },
+  {
+    "full_name": "Elizabeth Wanjiru",
+    "age": 23,
+    "gender": "Female",
+    "program_ids": [
+      "3112bf92-df1f-49e2-bfdf-55fed2ee5422",
+      "ee306735-a663-433e-92da-4ca7a09f97cc"
+    ],
+    "client_id": "6dd09a5f-4b9f-4f01-a76e-9d2228d75d20",
+    "registered_at": "2025-04-26 16:03:20.929878"
+  },
+  {
+    "full_name": "Edith Sialo",
+    "age": 24,
+    "gender": "Female",
+    "program_ids": [
+      "539c455d-5899-4de0-ac95-32fba9c7f98b",
+      "2de37a21-e11d-4b5d-a68b-f6a330513662"
+    ],
+    "client_id": "b4980e62-c4a9-4746-8937-609d9290795a",
+    "registered_at": "2025-04-27 00:08:27.194150"
+  }
+]
